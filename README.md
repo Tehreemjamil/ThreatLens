@@ -1,2 +1,5 @@
-# ThreatLens
-AI-powered threat intelligence scanner for analyzing domains and URLs and generating security insights.
+# 🛡️ ThreatLens — AI-Powered Threat Intelligence Scanner
+
+![ThreatLens Preview](threatlens-preview.png)
+
+ThreatLens is a beginner-friendly cybersecurity application that analyzes domains and URLs using threat intelligence data and AI-powered insights.
